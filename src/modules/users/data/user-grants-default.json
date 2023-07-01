@@ -1,0 +1,14 @@
+[
+  {"_id": "none", "description": "None grants"},
+  {"_id": "all", "description": "All grants"},
+  {"_id": "appAll", "description": "All application grants"},
+  {"_id": "sysAll", "description": "All system grants"},
+  {"_id": "usersView", "description": "Can view users"},
+  {"_id": "usersAdd", "description": "Can add users"},
+  {"_id": "usersUpdate", "description": "Can update users"},
+  {"_id": "usersRemove", "description": "Can remove users"},
+  {"_id": "rolesView", "description": "Can view roles"},
+  {"_id": "rolesAdd", "description": "Can add roles"},
+  {"_id": "rolesUpdate", "description": "Can update roles"},
+  {"_id": "rolesRemove", "description": "Can remove roles"}
+]

@@ -1,0 +1,4 @@
+[
+  {"_id": "admin", "description": "Administrator", "grants": ["all"]},
+  {"_id": "user", "description": "User", "grants": ["none"]}
+]

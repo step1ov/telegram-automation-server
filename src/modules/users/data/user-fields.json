@@ -1,0 +1,33 @@
+[{
+  "_id": "avatar",
+  "dataType": "enum",
+  "enumValues": [
+    "female",
+    "male",
+    "fox"
+  ]
+},{
+  "_id": "illness",
+  "dataType": "enum",
+  "enumValues": [
+    "pp",
+    "sp",
+    "rr"
+  ]
+},{
+  "_id": "notificationReminder",
+  "dataType": "boolean",
+  "enumValues": []
+},{
+  "_id": "notificationInfo",
+  "dataType": "boolean",
+  "enumValues": []
+},{
+  "_id": "notificationDiary",
+  "dataType": "boolean",
+  "enumValues": []
+},{
+  "_id": "notificationTime",
+  "dataType": "number",
+  "enumValues": []
+}]
